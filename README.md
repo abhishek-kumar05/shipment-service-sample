@@ -15,3 +15,4 @@ rebase-commit-03-01
 
 rebase-commit-03-02
 
+rebase-commit-04-01
